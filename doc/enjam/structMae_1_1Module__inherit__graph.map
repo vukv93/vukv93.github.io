@@ -1,0 +1,22 @@
+<map id="Mae::Module" name="Mae::Module">
+<area shape="rect" id="node1" title=" " alt="" coords="5,385,112,412"/>
+<area shape="rect" id="node2" href="$structMae_1_1CombBiquad.html" title=" " alt="" coords="168,5,309,32"/>
+<area shape="rect" id="node3" href="$structMae_1_1Container.html" title=" " alt="" coords="178,56,299,83"/>
+<area shape="rect" id="node6" href="$structMae_1_1EnvAR.html" title=" " alt="" coords="189,107,289,133"/>
+<area shape="rect" id="node7" href="$structMae_1_1EnvASR.html" title=" " alt="" coords="185,157,293,184"/>
+<area shape="rect" id="node8" href="$structMae_1_1Lag.html" title=" " alt="" coords="198,208,279,235"/>
+<area shape="rect" id="node9" href="$structMae_1_1Mixer.html" title=" " alt="" coords="191,259,286,285"/>
+<area shape="rect" id="node10" href="$structMae_1_1Pan.html" title=" " alt="" coords="198,309,279,336"/>
+<area shape="rect" id="node11" href="$structMae_1_1Resampler.html" title=" " alt="" coords="175,360,303,387"/>
+<area shape="rect" id="node12" href="$structMae_1_1SawOsc.html" title=" " alt="" coords="184,411,293,437"/>
+<area shape="rect" id="node13" href="$structMae_1_1SimpleSampler.html" title=" " alt="" coords="160,461,317,488"/>
+<area shape="rect" id="node15" href="$structMae_1_1SinOsc.html" title=" " alt="" coords="187,512,290,539"/>
+<area shape="rect" id="node16" href="$structMae_1_1SoftClip.html" title=" " alt="" coords="185,563,293,589"/>
+<area shape="rect" id="node17" href="$structMae_1_1SqrOsc.html" title=" " alt="" coords="187,613,290,640"/>
+<area shape="rect" id="node18" href="$structMae_1_1TestModule.html" title=" " alt="" coords="173,664,305,691"/>
+<area shape="rect" id="node19" href="$structMae_1_1Thru.html" title=" " alt="" coords="195,715,282,741"/>
+<area shape="rect" id="node20" href="$structMae_1_1VCA.html" title=" " alt="" coords="196,765,281,792"/>
+<area shape="rect" id="node4" href="$structMae_1_1LinearPatcher.html" title=" " alt="" coords="387,31,533,57"/>
+<area shape="rect" id="node5" href="$structMae_1_1SimpleMonoStrip.html" title=" " alt="" coords="375,81,545,108"/>
+<area shape="rect" id="node14" href="$structMae_1_1MultiTriggerSampler.html" title=" " alt="" coords="365,461,555,488"/>
+</map>

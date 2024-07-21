@@ -1,0 +1,10 @@
+<map id="Enjam" name="Enjam">
+<area shape="rect" id="node1" title=" " alt="" coords="197,275,260,301"/>
+<area shape="rect" id="node2" href="$structMain_1_1IApp.html" title=" " alt="" coords="53,185,143,212"/>
+<area shape="rect" id="node3" href="$classclipp_1_1group.html" title="group of parameters and/or other groups; can be configured to act as a group of alternatives (exclusi..." alt="" coords="27,96,126,123"/>
+<area shape="rect" id="node4" href="$classclipp_1_1detail_1_1token.html" title=" " alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node5" href="$structEnjam_1_1Probe.html" title=" " alt="" coords="175,185,283,212"/>
+<area shape="rect" id="node6" href="$structMemory_1_1SimplePool.html" title=" " alt="" coords="151,96,307,123"/>
+<area shape="rect" id="node7" href="$structAudio_1_1OutFile.html" title=" " alt="" coords="319,185,432,212"/>
+<area shape="rect" id="node8" href="$structAudio_1_1File.html" title=" " alt="" coords="331,96,422,123"/>
+</map>

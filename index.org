@@ -35,8 +35,9 @@ shown and explained to an audience.
 * Introduction
 
 This is a home to several open source projects.
-- [[https://github.com/vukv93/mudpi][Mudpi]]
-- [[https://github.com/vukv93/tool][Tool]]
+- [[https://github.com/vukv93/mudpi][Mudpi]] — Workstation environment (dotfiles).
+- [[https://github.com/vukv93/tool][Tool]] — Utility script.
+- [[https://github.com/vukv93/enjam][Enjam]] — Modular environment. [[./doc/enjam/index.html][Documentation]].
 
 #+attr_html: :width 512px
 #+caption: Ennou Frogg.
