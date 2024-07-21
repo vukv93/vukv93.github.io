@@ -1,0 +1,43 @@
+#+title:    Ennou
+#+subtitle: Presentation layer
+#+author:   Vuk Vasiljević
+
+:options:
+#+startup:  content
+#+options: html-link-use-abs-url:nil html-postamble:auto
+#+options: html-preamble:t html-scripts:nil html-style:t
+#+options: html-postamble:nil
+#+options: html5-fancy:nil tex:t
+#+html_doctype: xhtml-strict
+#+html_container: div
+#+html_content_class: content
+#+description:
+#+keywords:
+#+html_link_home:
+#+html_link_up:
+#+html_mathjax:
+#+html_equation_reference_format: \eqref{%s}
+#+html_head: <style>.subtitle{color:#aaaaaa}body{font-family:"sans-serif",serif;background-color:#222222;color:#dddddd}a:link{color:#aaaaff;text-decoration:none}a:visited{color:#ff99ff;text-decoration:none}pre{background-color:#333333;color:#cccccc}</style>
+#+html_head_extra:
+#+subtitle:
+#+infojs_opt:
+#+creator: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.2 (<a href="https://orgmode.org">Org</a> mode 9.5.5)
+:END:
+
+#+begin_abstract
+A speech or talk in which a new product, idea, or piece of work is
+shown and explained to an audience.
+#+end_abstract
+
+#+attr_html: :width 512px
+[[./doc/images/ennou-cover.png]]
+
+* Introduction
+
+Nouua is a home to several open source projects.
+- [[https://github.com/vukv93/mudpi][Mudpi]]
+- [[https://github.com/vukv93/tool][Tool]]
+
+#+attr_html: :width 512px
+#+caption: Ennou Frogg.
+[[./doc/images/ennou-frogg.png]]
