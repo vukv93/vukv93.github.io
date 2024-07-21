@@ -17,7 +17,7 @@
 #+html_link_up:
 #+html_mathjax:
 #+html_equation_reference_format: \eqref{%s}
-#+html_head: <style>.subtitle{color:#aaaaaa}body{font-family:"sans-serif",serif;background-color:#222222;color:#dddddd}a:link{color:#aaaaff;text-decoration:none}a:visited{color:#ff99ff;text-decoration:none}pre{background-color:#333333;color:#cccccc}</style>
+#+html_head: <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 #+html_head_extra:
 #+subtitle:
 #+infojs_opt:
@@ -34,7 +34,7 @@ shown and explained to an audience.
 
 * Introduction
 
-Nouua is a home to several open source projects.
+This is a home to several open source projects.
 - [[https://github.com/vukv93/mudpi][Mudpi]]
 - [[https://github.com/vukv93/tool][Tool]]
 
