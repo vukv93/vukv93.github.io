@@ -1,5 +1,0 @@
-<map id="Audio::Jack::Port" name="Audio::Jack::Port">
-<area shape="rect" id="node1" title=" " alt="" coords="116,5,244,32"/>
-<area shape="rect" id="node2" href="$structAudio_1_1Jack_1_1AudioPort.html" title=" " alt="" coords="5,80,171,107"/>
-<area shape="rect" id="node3" href="$structAudio_1_1Jack_1_1MidiPort.html" title=" " alt="" coords="195,80,351,107"/>
-</map>

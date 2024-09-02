@@ -1,7 +1,0 @@
-<map id="Audio::File" name="Audio::File">
-<area shape="rect" id="node1" title=" " alt="" coords="120,5,211,32"/>
-<area shape="rect" id="node2" href="$structAudio_1_1InFile.html" title=" " alt="" coords="49,80,151,107"/>
-<area shape="rect" id="node5" href="$structAudio_1_1OutFile.html" title=" " alt="" coords="175,80,289,107"/>
-<area shape="rect" id="node3" href="$structMae_1_1SimpleSampler.html" title=" " alt="" coords="21,155,179,181"/>
-<area shape="rect" id="node4" href="$structMae_1_1MultiTriggerSampler.html" title=" " alt="" coords="5,229,195,256"/>
-</map>
